@@ -1335,7 +1335,7 @@ defmodule Enum do
 
   @doc """
   Returns the maximal element in the enumerable according
-  to Erlang's term ordering.
+  to [Erlang's term ordering](operators.html#comparison-operators).
 
   If multiple elements are considered maximal, the first one that was found
   is returned.
